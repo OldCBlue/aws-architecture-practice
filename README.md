@@ -7,7 +7,8 @@
 > [!TIP]
 > 以下の図は、本プロジェクトのネットワーク、コンピューティング、およびサーバーレス拡張の統合を示しています。
 
-```markdown
+<img width="1753" height="1969" alt="mermaid-diagram-2026-04-30-175128" src="https://github.com/user-attachments/assets/ac8bf2a2-f183-4ac4-baa6-9afad03423e8" />
+
 ```mermaid
 graph TB
 
